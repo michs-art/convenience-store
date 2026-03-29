@@ -1,3 +1,12 @@
+## 📋 Primeros pasos
+-Buscar que es un json
+-Que es un object
+-Que es un Array
+
+-Como configurar que la carpeta app/ sea la principal en nuxt3
+-Como trabajar con arrays (.map, .filer, .find, .forEach, for())
+
+
 # 🛒 Tienda en Línea de Productos de Conveniencia
 
 Una aplicación web moderna para gestionar y vender productos de conveniencia. Construida con **Nuxt 3**, **Vue 3** y **Tailwind CSS**.
